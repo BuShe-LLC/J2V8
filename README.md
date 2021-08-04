@@ -1,3 +1,9 @@
+## NOTICE
+This is a clone of the J2V8 repository.
+NOTICE: prebuild directory contains precompiled binaries for J2V8 with NodeJS for Android. 
+
+BUILD TIME: 20210805 01:21 AM (Asia/Shanghai) (GMT+8)
+
 J2V8
 ====
 
